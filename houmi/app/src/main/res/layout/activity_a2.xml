@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:onClick="start_A3Activity">
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:text="@string/textView2"
+        android:textColor="#e31010"
+        android:textSize="40sp"
+        android:id="@+id/textView2"
+        android:gravity="center_vertical|center" />
+<RelativeLayout
+    android:layout_width="match_parent"
+    android:layout_height="344dp">
+
+    <Button
+        android:layout_height="100dp"
+        android:layout_width="wrap_content"
+        android:layout_alignWithParentIfMissing="false"
+        android:textSize="20sp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:id="@+id/StartA3"
+        android:text="@string/StartA3" />
+</RelativeLayout>
+</LinearLayout>

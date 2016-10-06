@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">houmi</string>
+    <string name="textView">This is ActivityA1</string>
+    <string name="textView2">This is ActivityA2</string>
+    <string name="textView3">This is ActivityA3</string>
+    <string name="textView4">This is ActivityA4</string>
+    <string name="textView5">This is ActivityA5</string>
+    <string name="StartA2">start_A2_Activity</string>
+    <string name="StartA3">start_A3_Activity</string>
+    <string name="StartA4">start_A4_Activity</string>
+    <string name="StartA5">start_A5_Activity</string>
+    <string name="StartMAin">start_Main_Activity</string>
+    <string name="main">Main_Activity!!!</string>
+</resources>
