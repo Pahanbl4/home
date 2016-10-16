@@ -3,7 +3,7 @@
     android:orientation="vertical"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:onClick="start_A2Activity">
+    android:onClick="StartA2Activity">
     <TextView
         android:layout_width="match_parent"
         android:layout_height="200dp"
@@ -16,7 +16,7 @@
 
     <RelativeLayout
         android:layout_width="match_parent"
-        android:layout_height="344dp">
+        android:layout_height="match_parent">
 <Button
     android:layout_height="100dp"
     android:layout_width="wrap_content"

@@ -12,7 +12,7 @@ public class A3Activity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_a3);
     }
-    public void start_A4Activity(View view){
+    public void StartA4Activity(View view){
         Intent intent = new Intent(this, A4Activity.class);
         startActivity(intent);
     }
